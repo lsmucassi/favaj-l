@@ -11,6 +11,7 @@ import com.avaj.launcher.tower.WeatherTower;
 
 import java.io.*;
 
+
 public class Simulator extends FileIOException {
 
     public static PrintWriter printer;
