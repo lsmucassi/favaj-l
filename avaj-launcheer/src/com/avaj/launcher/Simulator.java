@@ -34,7 +34,7 @@ public class Simulator extends FileIOException {
         try {
             printer = new PrintWriter(simFile);
         } catch (FileNotFoundException e) {
-            System.out.println("Error: couln't print to file");
+            System.out.println("Error: couldn't print to file");
             System.out.println("Error: " + e.getMessage());
             return ;
         }

@@ -1,0 +1,192 @@
+Tower Says: Baloon B1 ID: [1]  is registered to Tower
+Tower Says: Baloon B2 ID: [2]  is registered to Tower
+Tower Says JetPlane J1 ID: [3] is registered to Tower
+Tower Says: Helicopter H1 ID: [4] is registered to Tower
+Tower Says: Helicopter H2 ID: [5] is registered to Tower
+Tower Says: Helicopter H3 ID: [6] is registered to Tower
+Tower Says: Baloon B3 ID: [7]  is registered to Tower
+Tower Says JetPlane J2 ID: [8] is registered to Tower
+Tower Says: Helicopter H4 ID: [9] is registered to Tower
+Tower Says: Baloon B1 ID: [1] Damn! the snow is freezing our engines hard
+Tower Says: Baloon B2 ID: [2] The view might be blurry, this rain is getting heavy
+Tower Says JetPlane J1 ID: [3] I really have to get above the clouds, bloody damnful rain!
+Tower Says: Helicopter H1 ID: [4] Oh why did it have to be this snowy, damn snow!
+Tower Says: Helicopter H2 ID: [5] This will be a bumpy ride in the tides of the winds
+Tower Says: Helicopter H3 ID: [6] This light from the sun is too much, blocking my view
+Tower Says: Baloon B3 ID: [7] Oh what a lovely day to cruise the sky!
+Tower Says JetPlane J2 ID: [8] Speeding will be a challenge in this fog
+Tower Says: Helicopter H4 ID: [9] This light from the sun is too much, blocking my view
+Tower Says: Baloon B1 ID: [1] Oh nooooo! I can't see anything
+Tower Says: Baloon B2 ID: [2] Damn! the snow is freezing our engines hard
+Tower Says JetPlane J1 ID: [3] Speeding will be a challenge in this fog
+Tower Says: Helicopter H1 ID: [4] Oh why did it have to be this snowy, damn snow!
+Tower Says: Helicopter H2 ID: [5] I hope I can blow this fog with my choppers
+Tower Says: Helicopter H3 ID: [6] This light from the sun is too much, blocking my view
+Tower Says: Baloon B3 ID: [7] Oh nooooo! I can't see anything
+Tower Says JetPlane J2 ID: [8] Speeding will be a challenge in this fog
+Tower Says: Helicopter H4 ID: [9] This light from the sun is too much, blocking my view
+Tower Says: Baloon B1 ID: [1] The view might be blurry, this rain is getting heavy
+Tower Says: Baloon B2 ID: [2] Oh nooooo! I can't see anything
+Tower Says JetPlane J1 ID: [3] Not even snow can stop this beast from porting
+Tower Says: Helicopter H1 ID: [4] I hope I can blow this fog with my choppers
+Tower Says: Helicopter H2 ID: [5] Oh why did it have to be this snowy, damn snow!
+Tower Says: Helicopter H3 ID: [6] Oh why did it have to be this snowy, damn snow!
+Tower Says: Baloon B3 ID: [7] The view might be blurry, this rain is getting heavy
+Tower Says JetPlane J2 ID: [8] Speeding will be a challenge in this fog
+Tower Says: Helicopter H4 ID: [9] This light from the sun is too much, blocking my view
+Tower Says: Baloon B1 ID: [1] Oh what a lovely day to cruise the sky!
+Tower Says: Baloon B2 ID: [2] The view might be blurry, this rain is getting heavy
+Tower Says JetPlane J1 ID: [3] Yes sun bring a clear view for me, I like it
+Tower Says: Helicopter H1 ID: [4] I hope I can blow this fog with my choppers
+Tower Says: Helicopter H2 ID: [5] I hope I can blow this fog with my choppers
+Tower Says: Helicopter H3 ID: [6] I hope I can blow this fog with my choppers
+Tower Says: Baloon B3 ID: [7] Oh what a lovely day to cruise the sky!
+Tower Says JetPlane J2 ID: [8] Not even snow can stop this beast from porting
+Tower Says: Helicopter H4 ID: [9] This light from the sun is too much, blocking my view
+Tower Says: Baloon B1 ID: [1] Oh nooooo! I can't see anything
+Tower Says: Baloon B2 ID: [2] Damn! the snow is freezing our engines hard
+Tower Says JetPlane J1 ID: [3] Yes sun bring a clear view for me, I like it
+Tower Says: Helicopter H1 ID: [4] Oh why did it have to be this snowy, damn snow!
+Tower Says: Helicopter H2 ID: [5] I hope I can blow this fog with my choppers
+Tower Says: Helicopter H3 ID: [6] I hope I can blow this fog with my choppers
+Tower Says: Baloon B3 ID: [7] Oh nooooo! I can't see anything
+Tower Says JetPlane J2 ID: [8] Yes sun bring a clear view for me, I like it
+Tower Says: Helicopter H4 ID: [9] This light from the sun is too much, blocking my view
+Tower Says: Baloon B1 ID: [1] The view might be blurry, this rain is getting heavy
+Tower Says: Baloon B2 ID: [2] Oh nooooo! I can't see anything
+Tower Says JetPlane J1 ID: [3] Yes sun bring a clear view for me, I like it
+Tower Says: Helicopter H1 ID: [4] I hope I can blow this fog with my choppers
+Tower Says: Helicopter H2 ID: [5] Oh why did it have to be this snowy, damn snow!
+Tower Says: Helicopter H3 ID: [6] I hope I can blow this fog with my choppers
+Tower Says: Baloon B3 ID: [7] The view might be blurry, this rain is getting heavy
+Tower Says JetPlane J2 ID: [8] Yes sun bring a clear view for me, I like it
+Tower Says: Helicopter H4 ID: [9] This light from the sun is too much, blocking my view
+Tower Says: Baloon B1 ID: [1] Damn! the snow is freezing our engines hard
+Tower Says: Baloon B2 ID: [2] The view might be blurry, this rain is getting heavy
+Tower Says JetPlane J1 ID: [3] Yes sun bring a clear view for me, I like it
+Tower Says: Helicopter H1 ID: [4] I hope I can blow this fog with my choppers
+Tower Says: Helicopter H2 ID: [5] I hope I can blow this fog with my choppers
+Tower Says: Helicopter H3 ID: [6] I hope I can blow this fog with my choppers
+Tower Says: Baloon B3 ID: [7] Damn! the snow is freezing our engines hard
+Tower Says JetPlane J2 ID: [8] Yes sun bring a clear view for me, I like it
+Tower Says: Helicopter H4 ID: [9] This light from the sun is too much, blocking my view
+Tower Says: Baloon B1 ID: [1] Oh nooooo! I can't see anything
+Tower Says: Baloon B1 ID: [1]  is landing
+Tower Says: Baloon B1 ID: [1]  is now unregistered from Tower
+Tower Says JetPlane J1 ID: [3] Yes sun bring a clear view for me, I like it
+Tower Says: Helicopter H1 ID: [4] Oh why did it have to be this snowy, damn snow!
+Tower Says: Helicopter H2 ID: [5] I hope I can blow this fog with my choppers
+Tower Says: Helicopter H3 ID: [6] I hope I can blow this fog with my choppers
+Tower Says: Baloon B3 ID: [7] Oh nooooo! I can't see anything
+Tower Says JetPlane J2 ID: [8] Yes sun bring a clear view for me, I like it
+Tower Says: Helicopter H4 ID: [9] This light from the sun is too much, blocking my view
+Tower Says: Baloon B2 ID: [2] Oh what a lovely day to cruise the sky!
+Tower Says JetPlane J1 ID: [3] Yes sun bring a clear view for me, I like it
+Tower Says: Helicopter H1 ID: [4] I hope I can blow this fog with my choppers
+Tower Says: Helicopter H2 ID: [5] Oh why did it have to be this snowy, damn snow!
+Tower Says: Helicopter H3 ID: [6] I hope I can blow this fog with my choppers
+Tower Says: Baloon B3 ID: [7] The view might be blurry, this rain is getting heavy
+Tower Says JetPlane J2 ID: [8] Yes sun bring a clear view for me, I like it
+Tower Says: Helicopter H4 ID: [9] This light from the sun is too much, blocking my view
+Tower Says: Baloon B2 ID: [2] Oh nooooo! I can't see anything
+Tower Says JetPlane J1 ID: [3] Yes sun bring a clear view for me, I like it
+Tower Says: Helicopter H1 ID: [4] I hope I can blow this fog with my choppers
+Tower Says: Helicopter H2 ID: [5] I hope I can blow this fog with my choppers
+Tower Says: Helicopter H3 ID: [6] I hope I can blow this fog with my choppers
+Tower Says: Baloon B3 ID: [7] Damn! the snow is freezing our engines hard
+Tower Says: Baloon B3 ID: [7]  is landing
+Tower Says: Baloon B3 ID: [7]  is now unregistered from Tower
+Tower Says: Helicopter H4 ID: [9] This light from the sun is too much, blocking my view
+Tower Says: Baloon B2 ID: [2] The view might be blurry, this rain is getting heavy
+Tower Says JetPlane J1 ID: [3] Yes sun bring a clear view for me, I like it
+Tower Says: Helicopter H1 ID: [4] Oh why did it have to be this snowy, damn snow!
+Tower Says: Helicopter H2 ID: [5] I hope I can blow this fog with my choppers
+Tower Says: Helicopter H3 ID: [6] I hope I can blow this fog with my choppers
+Tower Says JetPlane J2 ID: [8] Not even snow can stop this beast from porting
+Tower Says: Helicopter H4 ID: [9] This light from the sun is too much, blocking my view
+Tower Says: Baloon B2 ID: [2] Damn! the snow is freezing our engines hard
+Tower Says: Baloon B2 ID: [2]  is landing
+Tower Says: Baloon B2 ID: [2]  is now unregistered from Tower
+Tower Says: Helicopter H1 ID: [4] I hope I can blow this fog with my choppers
+Tower Says: Helicopter H2 ID: [5] Oh why did it have to be this snowy, damn snow!
+Tower Says: Helicopter H3 ID: [6] I hope I can blow this fog with my choppers
+Tower Says JetPlane J2 ID: [8] I really have to get above the clouds, bloody damnful rain!
+Tower Says: Helicopter H4 ID: [9] This light from the sun is too much, blocking my view
+Tower Says JetPlane J1 ID: [3] Yes sun bring a clear view for me, I like it
+Tower Says: Helicopter H1 ID: [4] I hope I can blow this fog with my choppers
+Tower Says: Helicopter H2 ID: [5] This will be a bumpy ride in the tides of the winds
+Tower Says: Helicopter H3 ID: [6] I hope I can blow this fog with my choppers
+Tower Says JetPlane J2 ID: [8] Not even snow can stop this beast from porting
+Tower Says: Helicopter H4 ID: [9] This light from the sun is too much, blocking my view
+Tower Says JetPlane J1 ID: [3] Yes sun bring a clear view for me, I like it
+Tower Says: Helicopter H1 ID: [4] Oh why did it have to be this snowy, damn snow!
+Tower Says: Helicopter H2 ID: [5] This will be a bumpy ride in the tides of the winds
+Tower Says: Helicopter H3 ID: [6] I hope I can blow this fog with my choppers
+Tower Says JetPlane J2 ID: [8] Yes sun bring a clear view for me, I like it
+Tower Says: Helicopter H4 ID: [9] This light from the sun is too much, blocking my view
+Tower Says JetPlane J1 ID: [3] Yes sun bring a clear view for me, I like it
+Tower Says: Helicopter H1 ID: [4] I hope I can blow this fog with my choppers
+Tower Says: Helicopter H2 ID: [5] This will be a bumpy ride in the tides of the winds
+Tower Says: Helicopter H3 ID: [6] I hope I can blow this fog with my choppers
+Tower Says JetPlane J2 ID: [8] Yes sun bring a clear view for me, I like it
+Tower Says: Helicopter H4 ID: [9] This light from the sun is too much, blocking my view
+Tower Says JetPlane J1 ID: [3] Yes sun bring a clear view for me, I like it
+Tower Says: Helicopter H1 ID: [4] I hope I can blow this fog with my choppers
+Tower Says: Helicopter H2 ID: [5] This will be a bumpy ride in the tides of the winds
+Tower Says: Helicopter H3 ID: [6] I hope I can blow this fog with my choppers
+Tower Says JetPlane J2 ID: [8] Yes sun bring a clear view for me, I like it
+Tower Says: Helicopter H4 ID: [9] This light from the sun is too much, blocking my view
+Tower Says JetPlane J1 ID: [3] Yes sun bring a clear view for me, I like it
+Tower Says: Helicopter H1 ID: [4] I hope I can blow this fog with my choppers
+Tower Says: Helicopter H2 ID: [5] This will be a bumpy ride in the tides of the winds
+Tower Says: Helicopter H3 ID: [6] I hope I can blow this fog with my choppers
+Tower Says JetPlane J2 ID: [8] Yes sun bring a clear view for me, I like it
+Tower Says: Helicopter H4 ID: [9] This light from the sun is too much, blocking my view
+Tower Says JetPlane J1 ID: [3] Yes sun bring a clear view for me, I like it
+Tower Says: Helicopter H1 ID: [4] I hope I can blow this fog with my choppers
+Tower Says: Helicopter H2 ID: [5] This will be a bumpy ride in the tides of the winds
+Tower Says: Helicopter H3 ID: [6] I hope I can blow this fog with my choppers
+Tower Says JetPlane J2 ID: [8] Yes sun bring a clear view for me, I like it
+Tower Says: Helicopter H4 ID: [9] This light from the sun is too much, blocking my view
+Tower Says JetPlane J1 ID: [3] Yes sun bring a clear view for me, I like it
+Tower Says: Helicopter H1 ID: [4] I hope I can blow this fog with my choppers
+Tower Says: Helicopter H2 ID: [5] This will be a bumpy ride in the tides of the winds
+Tower Says: Helicopter H3 ID: [6] I hope I can blow this fog with my choppers
+Tower Says JetPlane J2 ID: [8] Yes sun bring a clear view for me, I like it
+Tower Says: Helicopter H4 ID: [9] This light from the sun is too much, blocking my view
+Tower Says JetPlane J1 ID: [3] Yes sun bring a clear view for me, I like it
+Tower Says: Helicopter H1 ID: [4] I hope I can blow this fog with my choppers
+Tower Says: Helicopter H2 ID: [5] This will be a bumpy ride in the tides of the winds
+Tower Says: Helicopter H3 ID: [6] I hope I can blow this fog with my choppers
+Tower Says JetPlane J2 ID: [8] Yes sun bring a clear view for me, I like it
+Tower Says: Helicopter H4 ID: [9] This light from the sun is too much, blocking my view
+Tower Says JetPlane J1 ID: [3] Yes sun bring a clear view for me, I like it
+Tower Says: Helicopter H1 ID: [4] I hope I can blow this fog with my choppers
+Tower Says: Helicopter H2 ID: [5] This will be a bumpy ride in the tides of the winds
+Tower Says: Helicopter H3 ID: [6] I hope I can blow this fog with my choppers
+Tower Says JetPlane J2 ID: [8] Yes sun bring a clear view for me, I like it
+Tower Says: Helicopter H4 ID: [9] This light from the sun is too much, blocking my view
+Tower Says JetPlane J1 ID: [3] Yes sun bring a clear view for me, I like it
+Tower Says: Helicopter H1 ID: [4] I hope I can blow this fog with my choppers
+Tower Says: Helicopter H2 ID: [5] This will be a bumpy ride in the tides of the winds
+Tower Says: Helicopter H3 ID: [6] I hope I can blow this fog with my choppers
+Tower Says JetPlane J2 ID: [8] Yes sun bring a clear view for me, I like it
+Tower Says: Helicopter H4 ID: [9] This light from the sun is too much, blocking my view
+Tower Says JetPlane J1 ID: [3] Yes sun bring a clear view for me, I like it
+Tower Says: Helicopter H1 ID: [4] I hope I can blow this fog with my choppers
+Tower Says: Helicopter H2 ID: [5] This will be a bumpy ride in the tides of the winds
+Tower Says: Helicopter H3 ID: [6] I hope I can blow this fog with my choppers
+Tower Says JetPlane J2 ID: [8] Not even snow can stop this beast from porting
+Tower Says: Helicopter H4 ID: [9] This light from the sun is too much, blocking my view
+Tower Says JetPlane J1 ID: [3] Yes sun bring a clear view for me, I like it
+Tower Says: Helicopter H1 ID: [4] I hope I can blow this fog with my choppers
+Tower Says: Helicopter H2 ID: [5] This will be a bumpy ride in the tides of the winds
+Tower Says: Helicopter H3 ID: [6] I hope I can blow this fog with my choppers
+Tower Says JetPlane J2 ID: [8] I really have to get above the clouds, bloody damnful rain!
+Tower Says: Helicopter H4 ID: [9] This light from the sun is too much, blocking my view
+Tower Says JetPlane J1 ID: [3] Yes sun bring a clear view for me, I like it
+Tower Says: Helicopter H1 ID: [4] I hope I can blow this fog with my choppers
+Tower Says: Helicopter H2 ID: [5] This will be a bumpy ride in the tides of the winds
+Tower Says: Helicopter H3 ID: [6] I hope I can blow this fog with my choppers
+Tower Says JetPlane J2 ID: [8] Speeding will be a challenge in this fog
+Tower Says: Helicopter H4 ID: [9] Oh why did it have to be this snowy, damn snow!

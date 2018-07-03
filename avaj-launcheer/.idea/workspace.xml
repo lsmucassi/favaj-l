@@ -11,14 +11,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.529661">
+    <splitter split-orientation="horizontal" split-proportion="0.4695652">
       <split-first>
         <leaf>
           <file leaf-file-name="Simulator.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/com/avaj/launcher/Simulator.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="192">
-                  <caret line="12" selection-start-line="12" selection-end-line="12" />
+                <state relative-caret-position="576">
+                  <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -110,20 +110,38 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="launch.sh" pinned="false" current-in-tab="false">
+          <file leaf-file-name="launch.sh" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/launch.sh">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="32">
-                  <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+                <state relative-caret-position="16">
+                  <caret line="1" selection-start-line="1" selection-end-line="1" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="WeatherProvider.java" pinned="false" current-in-tab="true">
+          <file leaf-file-name="WeatherProvider.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/com/avaj/launcher/weather/WeatherProvider.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="304">
                   <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="clean.sh" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/clean.sh">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <caret selection-end-column="19" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="process.sh" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/process.sh">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="282">
+                  <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
                 </state>
               </provider>
             </entry>
@@ -158,9 +176,11 @@
         <option value="$PROJECT_DIR$/src/com/avaj/launcher/aircraft/JetPlane.java" />
         <option value="$PROJECT_DIR$/src/com/avaj/launcher/aircraft/Baloon.java" />
         <option value="$PROJECT_DIR$/src/launch.sh" />
-        <option value="$PROJECT_DIR$/src/com/avaj/launcher/Simulator.java" />
-        <option value="$PROJECT_DIR$/launch.sh" />
         <option value="$PROJECT_DIR$/src/com/avaj/launcher/weather/WeatherProvider.java" />
+        <option value="$PROJECT_DIR$/src/com/avaj/launcher/Simulator.java" />
+        <option value="$PROJECT_DIR$/clean.sh" />
+        <option value="$PROJECT_DIR$/process.sh" />
+        <option value="$PROJECT_DIR$/launch.sh" />
       </list>
     </option>
   </component>
@@ -201,21 +221,6 @@
               <item name="avaj-launcheer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="avaj" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="avaj-launcheer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="avaj-launcheer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="avaj" type="462c0819:PsiDirectoryNode" />
-              <item name="launcher" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="avaj-launcheer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="avaj-launcheer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="avaj" type="462c0819:PsiDirectoryNode" />
-              <item name="launcher" type="462c0819:PsiDirectoryNode" />
-              <item name="weather" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -322,12 +327,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530608181139</updated>
-      <workItem from="1530608182614" duration="13189000" />
+      <workItem from="1530608182614" duration="14024000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13189000" />
+    <option name="totallyTimeSpent" value="14024000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
@@ -344,12 +349,12 @@
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="6" weight="0.33731344" />
       <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.3283582" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.2517413" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.14270501" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.14270501" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="5" weight="0.32976654" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32935324" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info id="UI Designer" order="1" />
@@ -528,6 +533,16 @@
     <entry file="file://$PROJECT_DIR$/sources.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/simulation.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/avaj/launcher/weather/WeatherProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/avaj/launcher/Simulator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1359">
@@ -538,17 +553,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/launch.sh">
+    <entry file="file://$PROJECT_DIR$/process.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="282">
+          <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/avaj/launcher/weather/WeatherProvider.java">
+    <entry file="file://$PROJECT_DIR$/clean.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        <state>
+          <caret selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/launch.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
